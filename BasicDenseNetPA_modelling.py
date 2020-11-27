@@ -93,9 +93,9 @@ def DenseNET():
 	return model
 
 def main():
-	train_pa = pd.read_csv("model_files/PA_train.csv")
-	test_pa = pd.read_csv("model_files/PA_test.csv")
-	val_pa = pd.read_csv("model_files/PA_val.csv")
+	train_pa = pd.read_csv("data_csv_files/PA_train.csv")
+	test_pa = pd.read_csv("data_csv_files/PA_test.csv")
+	val_pa = pd.read_csv("data_csv_files/PA_val.csv")
 
 	PA_images = load_images()
 	
