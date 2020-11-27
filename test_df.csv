@@ -1,0 +1,1129 @@
+,Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y],full_path
+2071,00009397_013.png,Nodule,13,9397,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009397_013.png
+2216,00009863_026.png,No Finding,26,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_026.png
+1278,00005683_003.png,Nodule,3,5683,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005683_003.png
+2987,00015462_001.png,Infiltration,1,15462,3,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015462_001.png
+5222,00029670_007.png,Consolidation,7,29670,76,F,AP,3550,3166,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_007.png
+2473,00010897_009.png,Infiltration,9,10897,47,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010897_009.png
+976,00004761_004.png,Pneumothorax,4,4761,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004761_004.png
+1376,00006160_013.png,No Finding,13,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_013.png
+3658,00019499_001.png,Atelectasis,1,19499,56,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019499_001.png
+2818,00013325_000.png,No Finding,0,13325,64,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013325_000.png
+174,00000522_004.png,No Finding,4,522,20,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000522_004.png
+1581,00007007_015.png,Atelectasis,15,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_015.png
+2279,00010033_000.png,Nodule,0,10033,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010033_000.png
+1241,00005593_000.png,Pneumothorax,0,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_000.png
+503,00001836_116.png,No Finding,116,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_116.png
+3495,00018390_005.png,No Finding,5,18390,62,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018390_005.png
+1087,00005195_002.png,Edema,2,5195,57,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005195_002.png
+5058,00028999_000.png,Atelectasis,0,28999,60,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028999_000.png
+1983,00008853_000.png,Atelectasis,0,8853,52,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008853_000.png
+3720,00019785_019.png,Edema,19,19785,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_019.png
+3249,00017081_008.png,Infiltration,8,17081,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017081_008.png
+3944,00020213_093.png,Consolidation,93,20213,72,F,AP,2908,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_093.png
+1555,00007007_000.png,Infiltration,0,7007,45,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_000.png
+2523,00011331_002.png,No Finding,2,11331,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011331_002.png
+4233,00021284_000.png,Pneumonia,0,21284,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021284_000.png
+134,00000193_005.png,No Finding,5,193,55,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000193_005.png
+1165,00005372_014.png,Atelectasis,14,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_014.png
+2537,00011485_000.png,No Finding,0,11485,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011485_000.png
+250,00001278_005.png,No Finding,5,1278,54,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_005.png
+5189,00029594_000.png,No Finding,0,29594,71,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029594_000.png
+2361,00010544_023.png,Pneumonia,23,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_023.png
+344,00001836_010.png,Nodule,10,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_010.png
+4696,00026925_018.png,Infiltration,18,26925,38,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_018.png
+681,00003005_022.png,No Finding,22,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_022.png
+676,00003005_018.png,Effusion,18,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_018.png
+3010,00015564_011.png,Infiltration,11,15564,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015564_011.png
+3024,00015572_009.png,No Finding,9,15572,68,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015572_009.png
+3212,00016833_000.png,No Finding,0,16833,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016833_000.png
+1006,00004870_002.png,No Finding,2,4870,58,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004870_002.png
+928,00004630_000.png,Cardiomegaly,0,4630,70,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004630_000.png
+5306,00030079_002.png,Nodule,2,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_002.png
+58,00000032_035.png,Infiltration,35,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_035.png
+2979,00015369_002.png,Effusion,2,15369,47,F,AP,2948,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015369_002.png
+2509,00011066_004.png,Infiltration,4,11066,36,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011066_004.png
+4655,00026727_002.png,No Finding,2,26727,27,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026727_002.png
+4714,00026925_032.png,No Finding,32,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_032.png
+726,00003393_012.png,Nodule,12,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_012.png
+5326,00030079_015.png,Consolidation,15,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_015.png
+1400,00006237_015.png,No Finding,15,6237,57,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006237_015.png
+3954,00020213_096.png,Effusion,96,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_096.png
+654,00002933_001.png,No Finding,1,2933,20,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002933_001.png
+4637,00026497_005.png,No Finding,5,26497,22,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026497_005.png
+966,00004753_000.png,No Finding,0,4753,60,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004753_000.png
+5382,00030079_059.png,Infiltration,59,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_059.png
+416,00001836_052.png,Edema,52,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_052.png
+3903,00020213_072.png,Infiltration,72,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_072.png
+4447,00023142_001.png,Effusion,1,23142,14,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00023142_001.png
+840,00003580_001.png,No Finding,1,3580,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003580_001.png
+2652,00012428_001.png,No Finding,1,12428,62,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012428_001.png
+2792,00013310_055.png,Infiltration,55,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_055.png
+2800,00013310_058.png,Emphysema,58,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_058.png
+4421,00022753_002.png,Nodule,2,22753,39,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022753_002.png
+3293,00017424_008.png,No Finding,8,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_008.png
+1920,00008232_014.png,Pneumothorax,14,8232,41,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008232_014.png
+2894,00013992_016.png,Pneumonia,16,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_016.png
+4417,00022753_001.png,Infiltration,1,22753,39,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022753_001.png
+1999,00009116_002.png,Edema,2,9116,78,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009116_002.png
+4069,00020852_016.png,Infiltration,16,20852,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020852_016.png
+129,00000193_000.png,No Finding,0,193,54,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000193_000.png
+5312,00030079_007.png,Edema,7,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_007.png
+2822,00013347_000.png,Atelectasis,0,13347,51,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013347_000.png
+4675,00026925_000.png,No Finding,0,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_000.png
+4214,00021277_023.png,No Finding,23,21277,19,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_023.png
+3771,00020170_004.png,No Finding,4,20170,51,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020170_004.png
+1456,00006653_017.png,Effusion,17,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_017.png
+3751,00019953_001.png,Infiltration,1,19953,12,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019953_001.png
+2096,00009539_001.png,No Finding,1,9539,52,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009539_001.png
+5461,00030167_002.png,Infiltration,2,30167,56,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030167_002.png
+2820,00013325_002.png,No Finding,2,13325,64,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013325_002.png
+2368,00010544_028.png,No Finding,28,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_028.png
+3079,00016034_002.png,Cardiomegaly,2,16034,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016034_002.png
+2314,00010347_000.png,Atelectasis,0,10347,34,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010347_000.png
+2371,00010544_031.png,Infiltration,31,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_031.png
+5612,00030621_003.png,No Finding,3,30621,22,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030621_003.png
+1565,00007007_004.png,Pneumonia,4,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_004.png
+1443,00006653_008.png,No Finding,8,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_008.png
+2849,00013566_000.png,Consolidation,0,13566,67,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013566_000.png
+60,00000032_035.png,Effusion,35,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_035.png
+975,00004761_004.png,Consolidation,4,4761,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004761_004.png
+2526,00011396_002.png,No Finding,2,11396,40,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011396_002.png
+1293,00005721_005.png,No Finding,5,5721,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005721_005.png
+1167,00005372_015.png,No Finding,15,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_015.png
+4991,00028774_026.png,No Finding,26,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_026.png
+698,00003186_004.png,Edema,4,3186,47,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003186_004.png
+619,00002548_000.png,Effusion,0,2548,34,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002548_000.png
+335,00001836_006.png,Mass,6,1836,49,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_006.png
+2631,00012010_041.png,No Finding,41,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_041.png
+3069,00015927_003.png,Infiltration,3,15927,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015927_003.png
+5125,00029377_002.png,No Finding,2,29377,65,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029377_002.png
+2022,00009260_003.png,No Finding,3,9260,19,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009260_003.png
+2554,00011619_003.png,No Finding,3,11619,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011619_003.png
+3938,00020213_091.png,Consolidation,91,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_091.png
+4849,00028127_002.png,Infiltration,2,28127,35,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028127_002.png
+4182,00021277_004.png,No Finding,4,21277,19,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_004.png
+1731,00007412_001.png,No Finding,1,7412,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007412_001.png
+3976,00020213_109.png,No Finding,109,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_109.png
+2230,00009863_039.png,No Finding,39,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_039.png
+2689,00012878_001.png,Edema,1,12878,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012878_001.png
+3174,00016782_002.png,No Finding,2,16782,67,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016782_002.png
+1872,00008067_019.png,No Finding,19,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_019.png
+3836,00020213_041.png,Effusion,41,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_041.png
+3568,00018829_024.png,Infiltration,24,18829,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018829_024.png
+4167,00021276_002.png,No Finding,2,21276,41,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021276_002.png
+2577,00011894_003.png,No Finding,3,11894,22,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011894_003.png
+1822,00008051_031.png,No Finding,31,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_031.png
+2087,00009479_001.png,No Finding,1,9479,45,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009479_001.png
+3164,00016737_006.png,No Finding,6,16737,57,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016737_006.png
+3817,00020213_029.png,No Finding,29,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_029.png
+1299,00005754_001.png,No Finding,1,5754,63,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005754_001.png
+1990,00009092_000.png,No Finding,0,9092,20,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009092_000.png
+3886,00020213_062.png,No Finding,62,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_062.png
+817,00003394_006.png,Cardiomegaly,6,3394,69,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003394_006.png
+4825,00027765_001.png,Infiltration,1,27765,2,M,AP,1844,1672,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027765_001.png
+3971,00020213_104.png,No Finding,104,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_104.png
+4468,00025267_001.png,Infiltration,1,25267,29,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025267_001.png
+3199,00016786_015.png,Consolidation,15,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_015.png
+3183,00016786_004.png,Consolidation,4,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_004.png
+4977,00028774_018.png,Infiltration,18,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_018.png
+1037,00005094_013.png,Infiltration,13,5094,56,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005094_013.png
+4107,00021041_004.png,Effusion,4,21041,68,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021041_004.png
+2899,00013992_020.png,Infiltration,20,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_020.png
+2920,00013992_030.png,Effusion,30,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_030.png
+2683,00012779_001.png,Atelectasis,1,12779,36,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012779_001.png
+3001,00015564_003.png,No Finding,3,15564,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015564_003.png
+5253,00029855_001.png,Effusion,1,29855,42,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029855_001.png
+1046,00005094_017.png,Atelectasis,17,5094,56,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005094_017.png
+4514,00025628_016.png,Pleural_Thickening,16,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_016.png
+2007,00009120_006.png,Nodule,6,9120,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009120_006.png
+1610,00007133_001.png,Emphysema,1,7133,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007133_001.png
+3054,00015768_003.png,Effusion,3,15768,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015768_003.png
+1697,00007322_010.png,Effusion,10,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_010.png
+3242,00017081_003.png,Infiltration,3,17081,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017081_003.png
+5213,00029670_003.png,Effusion,3,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_003.png
+5310,00030079_005.png,Effusion,5,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_005.png
+1534,00006973_008.png,Atelectasis,8,6973,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006973_008.png
+586,00002072_018.png,Infiltration,18,2072,10,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_018.png
+4405,00022599_002.png,No Finding,2,22599,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022599_002.png
+2661,00012605_000.png,No Finding,0,12605,5,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012605_000.png
+3864,00020213_051.png,Infiltration,51,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_051.png
+1618,00007133_006.png,Infiltration,6,7133,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007133_006.png
+213,00000888_001.png,No Finding,1,888,38,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000888_001.png
+685,00003107_001.png,No Finding,1,3107,29,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003107_001.png
+88,00000032_047.png,Infiltration,47,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_047.png
+4798,00027657_017.png,Atelectasis,17,27657,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027657_017.png
+4111,00021041_007.png,No Finding,7,21041,68,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021041_007.png
+3574,00018909_000.png,No Finding,0,18909,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018909_000.png
+535,00001854_001.png,No Finding,1,1854,16,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001854_001.png
+5068,00029135_006.png,No Finding,6,29135,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029135_006.png
+3364,00017756_002.png,Mass,2,17756,88,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017756_002.png
+3661,00019499_003.png,Nodule,3,19499,56,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019499_003.png
+1706,00007322_015.png,Consolidation,15,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_015.png
+2404,00010698_010.png,No Finding,10,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_010.png
+3290,00017424_005.png,No Finding,5,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_005.png
+2998,00015564_001.png,Nodule,1,15564,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015564_001.png
+2118,00009621_003.png,Infiltration,3,9621,2,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009621_003.png
+5440,00030121_001.png,Mass,1,30121,49,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030121_001.png
+22,00000032_012.png,Edema,12,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_012.png
+2804,00013310_060.png,Pneumothorax,60,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_060.png
+267,00001278_016.png,Effusion,16,1278,54,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_016.png
+2774,00013310_044.png,Infiltration,44,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_044.png
+2625,00012010_035.png,No Finding,35,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_035.png
+5599,00030609_019.png,Infiltration,19,30609,6,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030609_019.png
+1418,00006323_000.png,Mass,0,6323,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006323_000.png
+4536,00025685_001.png,Effusion,1,25685,52,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025685_001.png
+1776,00008051_001.png,Atelectasis,1,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_001.png
+842,00003580_003.png,Mass,3,3580,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003580_003.png
+783,00003393_056.png,Pneumothorax,56,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_056.png
+2685,00012779_002.png,No Finding,2,12779,36,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012779_002.png
+3322,00017424_034.png,Effusion,34,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_034.png
+281,00001332_000.png,Consolidation,0,1332,14,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001332_000.png
+3061,00015818_000.png,Atelectasis,0,15818,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015818_000.png
+718,00003393_006.png,Nodule,6,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_006.png
+2420,00010698_022.png,Infiltration,22,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_022.png
+778,00003393_053.png,No Finding,53,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_053.png
+5114,00029330_001.png,No Finding,1,29330,58,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029330_001.png
+382,00001836_032.png,Infiltration,32,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_032.png
+4217,00021277_026.png,No Finding,26,21277,19,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_026.png
+4010,00020381_000.png,Infiltration,0,20381,55,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020381_000.png
+2613,00012010_023.png,No Finding,23,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_023.png
+3447,00017972_038.png,Effusion,38,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_038.png
+1338,00006033_003.png,No Finding,3,6033,40,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006033_003.png
+2902,00013992_022.png,Effusion,22,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_022.png
+1229,00005555_001.png,Nodule,1,5555,51,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005555_001.png
+3192,00016786_010.png,Consolidation,10,16786,23,F,AP,3305,2850,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_010.png
+3492,00018390_002.png,No Finding,2,18390,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018390_002.png
+881,00004283_005.png,No Finding,5,4283,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004283_005.png
+2560,00011619_009.png,Edema,9,11619,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011619_009.png
+5474,00030209_005.png,No Finding,5,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_005.png
+2115,00009621_001.png,Atelectasis,1,9621,2,F,AP,2048,2500,0.115,0.115,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009621_001.png
+5129,00029385_003.png,No Finding,3,29385,52,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029385_003.png
+1725,00007322_032.png,No Finding,32,7322,69,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_032.png
+5190,00029594_001.png,No Finding,1,29594,71,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029594_001.png
+3214,00016922_000.png,No Finding,0,16922,26,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016922_000.png
+994,00004821_005.png,No Finding,5,4821,20,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004821_005.png
+859,00003726_001.png,Effusion,1,3726,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003726_001.png
+5448,00030152_002.png,Infiltration,2,30152,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030152_002.png
+5132,00029385_006.png,No Finding,6,29385,52,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029385_006.png
+2641,00012123_001.png,Atelectasis,1,12123,73,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012123_001.png
+4586,00026068_001.png,No Finding,1,26068,67,M,AP,2907,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026068_001.png
+3831,00020213_038.png,Pleural_Thickening,38,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_038.png
+2433,00010698_032.png,Effusion,32,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_032.png
+421,00001836_056.png,Atelectasis,56,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_056.png
+5127,00029385_001.png,No Finding,1,29385,52,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029385_001.png
+4940,00028605_001.png,No Finding,1,28605,44,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028605_001.png
+2693,00012926_001.png,No Finding,1,12926,53,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012926_001.png
+4189,00021277_010.png,No Finding,10,21277,19,M,AP,3052,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_010.png
+2134,00009666_001.png,Infiltration,1,9666,57,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009666_001.png
+3891,00020213_064.png,Effusion,64,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_064.png
+2790,00013310_054.png,Pneumothorax,54,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_054.png
+4596,00026113_001.png,Edema,1,26113,70,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026113_001.png
+4994,00028774_029.png,Consolidation,29,28774,68,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_029.png
+3626,00019289_000.png,Cardiomegaly,0,19289,61,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019289_000.png
+4673,00026906_002.png,Effusion,2,26906,54,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026906_002.png
+3503,00018418_001.png,Consolidation,1,18418,43,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018418_001.png
+5065,00029135_003.png,No Finding,3,29135,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029135_003.png
+2590,00012010_001.png,Effusion,1,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_001.png
+2157,00009822_001.png,Effusion,1,9822,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009822_001.png
+847,00003649_002.png,No Finding,2,3649,50,M,AP,2952,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003649_002.png
+3645,00019430_000.png,Nodule,0,19430,72,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019430_000.png
+2252,00009863_056.png,Pneumothorax,56,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_056.png
+3051,00015768_001.png,Effusion,1,15768,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015768_001.png
+4699,00026925_021.png,No Finding,21,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_021.png
+4387,00022429_000.png,No Finding,0,22429,9,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022429_000.png
+173,00000522_003.png,No Finding,3,522,19,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000522_003.png
+3835,00020213_041.png,Atelectasis,41,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_041.png
+1398,00006237_013.png,No Finding,13,6237,57,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006237_013.png
+3668,00019552_000.png,No Finding,0,19552,19,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019552_000.png
+1289,00005721_003.png,Mass,3,5721,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005721_003.png
+2002,00009120_001.png,Nodule,1,9120,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009120_001.png
+2353,00010544_017.png,Infiltration,17,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_017.png
+873,00003951_001.png,No Finding,1,3951,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003951_001.png
+4679,00026925_004.png,Nodule,4,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_004.png
+5405,00030102_000.png,Consolidation,0,30102,9,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030102_000.png
+3838,00020213_043.png,Infiltration,43,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_043.png
+2363,00010544_024.png,Edema,24,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_024.png
+4312,00021565_021.png,No Finding,21,21565,39,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021565_021.png
+2568,00011672_002.png,Effusion,2,11672,29,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011672_002.png
+3036,00015640_006.png,Atelectasis,6,15640,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015640_006.png
+5096,00029279_003.png,Mass,3,29279,27,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029279_003.png
+1107,00005204_001.png,No Finding,1,5204,6,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005204_001.png
+239,00001226_004.png,Effusion,4,1226,80,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001226_004.png
+3231,00016954_004.png,No Finding,4,16954,33,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016954_004.png
+5575,00030607_003.png,No Finding,3,30607,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030607_003.png
+2156,00009822_001.png,Edema,1,9822,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009822_001.png
+4997,00028774_030.png,Infiltration,30,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_030.png
+4170,00021276_005.png,No Finding,5,21276,41,F,AP,3020,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021276_005.png
+3191,00016786_009.png,Infiltration,9,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_009.png
+4669,00026879_001.png,No Finding,1,26879,27,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026879_001.png
+3567,00018829_023.png,Effusion,23,18829,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018829_023.png
+3799,00020213_013.png,No Finding,13,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_013.png
+1786,00008051_010.png,Atelectasis,10,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_010.png
+2160,00009822_002.png,Edema,2,9822,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009822_002.png
+4389,00022429_002.png,No Finding,2,22429,9,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022429_002.png
+1970,00008734_004.png,No Finding,4,8734,19,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008734_004.png
+1701,00007322_012.png,Effusion,12,7322,68,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_012.png
+434,00001836_068.png,Fibrosis,68,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_068.png
+3441,00017972_036.png,Pneumothorax,36,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_036.png
+2559,00011619_008.png,No Finding,8,11619,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011619_008.png
+3946,00020213_093.png,Effusion,93,20213,72,F,AP,2908,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_093.png
+3123,00016467_001.png,No Finding,1,16467,62,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016467_001.png
+89,00000032_048.png,No Finding,48,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_048.png
+1640,00007212_000.png,Fibrosis,0,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_000.png
+3700,00019785_009.png,Mass,9,19785,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_009.png
+4267,00021419_001.png,No Finding,1,21419,48,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021419_001.png
+2272,00010010_003.png,Effusion,3,10010,34,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010010_003.png
+4404,00022599_001.png,Effusion,1,22599,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022599_001.png
+4787,00027657_010.png,Effusion,10,27657,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027657_010.png
+3481,00018285_000.png,Mass,0,18285,40,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018285_000.png
+1941,00008302_001.png,Atelectasis,1,8302,64,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008302_001.png
+2270,00010010_002.png,Effusion,2,10010,34,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010010_002.png
+692,00003186_000.png,Effusion,0,3186,47,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003186_000.png
+3478,00018204_002.png,No Finding,2,18204,21,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018204_002.png
+5138,00029404_001.png,No Finding,1,29404,14,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029404_001.png
+3601,00019062_001.png,No Finding,1,19062,34,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019062_001.png
+3053,00015768_003.png,Infiltration,3,15768,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015768_003.png
+5378,00030079_056.png,Infiltration,56,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_056.png
+4973,00028774_014.png,Nodule,14,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_014.png
+1798,00008051_021.png,Atelectasis,21,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_021.png
+4557,00025856_000.png,No Finding,0,25856,7,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025856_000.png
+218,00000890_002.png,Mass,2,890,30,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000890_002.png
+1923,00008232_016.png,Pneumothorax,16,8232,41,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008232_016.png
+35,00000032_023.png,Edema,23,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_023.png
+4149,00021209_001.png,Infiltration,1,21209,49,M,AP,2980,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021209_001.png
+4676,00026925_001.png,No Finding,1,26925,38,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_001.png
+2629,00012010_039.png,No Finding,39,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_039.png
+3936,00020213_090.png,Infiltration,90,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_090.png
+2719,00013300_003.png,Infiltration,3,13300,16,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013300_003.png
+2305,00010159_002.png,No Finding,2,10159,42,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010159_002.png
+457,00001836_082.png,Mass,82,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_082.png
+2911,00013992_027.png,Mass,27,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_027.png
+440,00001836_071.png,No Finding,71,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_071.png
+3777,00020213_001.png,Effusion,1,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_001.png
+2399,00010698_008.png,Infiltration,8,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_008.png
+3911,00020213_075.png,Effusion,75,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_075.png
+5356,00030079_039.png,Infiltration,39,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_039.png
+4343,00021965_005.png,No Finding,5,21965,59,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021965_005.png
+5259,00029883_003.png,Infiltration,3,29883,63,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029883_003.png
+1172,00005372_020.png,No Finding,20,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_020.png
+5286,00029919_007.png,Cardiomegaly,7,29919,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_007.png
+3719,00019785_019.png,Infiltration,19,19785,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_019.png
+150,00000202_000.png,No Finding,0,202,66,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000202_000.png
+53,00000032_034.png,Atelectasis,34,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_034.png
+1339,00006053_000.png,No Finding,0,6053,23,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006053_000.png
+1166,00005372_014.png,Consolidation,14,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_014.png
+3674,00019596_003.png,No Finding,3,19596,64,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019596_003.png
+1108,00005221_000.png,No Finding,0,5221,60,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005221_000.png
+3528,00018819_006.png,Infiltration,6,18819,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018819_006.png
+4418,00022753_001.png,Pleural_Thickening,1,22753,39,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022753_001.png
+1257,00005593_014.png,No Finding,14,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_014.png
+2214,00009863_024.png,No Finding,24,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_024.png
+3225,00016944_006.png,Effusion,6,16944,21,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016944_006.png
+3910,00020213_075.png,Infiltration,75,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_075.png
+1641,00007212_001.png,No Finding,1,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_001.png
+4778,00027657_003.png,Effusion,3,27657,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027657_003.png
+1597,00007016_000.png,No Finding,0,7016,7,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007016_000.png
+1856,00008067_005.png,Infiltration,5,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_005.png
+4970,00028774_013.png,Infiltration,13,28774,68,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_013.png
+852,00003649_004.png,Infiltration,4,3649,50,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003649_004.png
+3738,00019946_000.png,No Finding,0,19946,57,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019946_000.png
+5026,00028774_049.png,No Finding,49,28774,68,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_049.png
+1652,00007212_011.png,No Finding,11,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_011.png
+5481,00030209_012.png,No Finding,12,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_012.png
+807,00003393_068.png,Nodule,68,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_068.png
+729,00003393_013.png,Mass,13,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_013.png
+1444,00006653_009.png,No Finding,9,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_009.png
+4117,00021049_000.png,Infiltration,0,21049,61,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021049_000.png
+1888,00008114_000.png,No Finding,0,8114,65,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008114_000.png
+93,00000032_050.png,Edema,50,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_050.png
+1838,00008051_042.png,No Finding,42,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_042.png
+3326,00017424_038.png,No Finding,38,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_038.png
+3105,00016348_000.png,Infiltration,0,16348,48,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016348_000.png
+2941,00014269_005.png,No Finding,5,14269,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014269_005.png
+3134,00016554_000.png,No Finding,0,16554,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016554_000.png
+5536,00030412_001.png,Cardiomegaly,1,30412,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030412_001.png
+5390,00030079_065.png,Consolidation,65,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_065.png
+4132,00021182_000.png,Atelectasis,0,21182,36,M,AP,3048,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021182_000.png
+1423,00006323_005.png,No Finding,5,6323,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006323_005.png
+5105,00029294_001.png,No Finding,1,29294,51,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029294_001.png
+4450,00023150_002.png,No Finding,2,23150,14,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00023150_002.png
+4730,00027108_010.png,Infiltration,10,27108,59,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027108_010.png
+5408,00030102_003.png,No Finding,3,30102,9,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030102_003.png
+1263,00005642_000.png,No Finding,0,5642,64,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005642_000.png
+4937,00028601_004.png,Infiltration,4,28601,63,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028601_004.png
+20,00000032_012.png,Atelectasis,12,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_012.png
+2727,00013310_004.png,No Finding,4,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_004.png
+196,00000831_004.png,Infiltration,4,831,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000831_004.png
+5496,00030247_003.png,Atelectasis,3,30247,54,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030247_003.png
+841,00003580_002.png,No Finding,2,3580,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003580_002.png
+4526,00025628_024.png,Atelectasis,24,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_024.png
+259,00001278_011.png,Effusion,11,1278,54,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_011.png
+2909,00013992_026.png,Mass,26,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_026.png
+4678,00026925_003.png,Infiltration,3,26925,38,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_003.png
+4091,00020933_001.png,No Finding,1,20933,59,F,AP,2996,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020933_001.png
+4780,00027657_005.png,Atelectasis,5,27657,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027657_005.png
+1411,00006275_003.png,No Finding,3,6275,64,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006275_003.png
+4761,00027357_012.png,No Finding,12,27357,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027357_012.png
+3408,00017972_018.png,Emphysema,18,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_018.png
+776,00003393_051.png,No Finding,51,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_051.png
+1392,00006237_007.png,Atelectasis,7,6237,57,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006237_007.png
+3930,00020213_088.png,Consolidation,88,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_088.png
+1634,00007168_000.png,No Finding,0,7168,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007168_000.png
+1009,00004929_000.png,No Finding,0,4929,51,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004929_000.png
+1978,00008774_004.png,Consolidation,4,8774,26,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008774_004.png
+3345,00017625_006.png,No Finding,6,17625,11,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017625_006.png
+5411,00030105_002.png,No Finding,2,30105,40,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030105_002.png
+743,00003393_026.png,Effusion,26,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_026.png
+1947,00008470_001.png,No Finding,1,8470,30,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008470_001.png
+5454,00030152_007.png,Cardiomegaly,7,30152,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030152_007.png
+666,00003005_008.png,Consolidation,8,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_008.png
+1939,00008277_001.png,Mass,1,8277,51,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008277_001.png
+4123,00021066_003.png,No Finding,3,21066,61,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021066_003.png
+5511,00030286_006.png,No Finding,6,30286,41,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030286_006.png
+2787,00013310_052.png,Pneumothorax,52,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_052.png
+2934,00014259_001.png,No Finding,1,14259,33,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014259_001.png
+5634,00030772_000.png,No Finding,0,30772,26,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030772_000.png
+988,00004787_007.png,No Finding,7,4787,33,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004787_007.png
+947,00004700_001.png,No Finding,1,4700,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004700_001.png
+5277,00029919_004.png,Cardiomegaly,4,29919,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_004.png
+4353,00021969_001.png,Cardiomegaly,1,21969,56,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021969_001.png
+3333,00017456_001.png,No Finding,1,17456,52,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017456_001.png
+2381,00010627_002.png,No Finding,2,10627,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010627_002.png
+2567,00011672_002.png,Consolidation,2,11672,29,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011672_002.png
+4243,00021287_002.png,Mass,2,21287,57,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021287_002.png
+1937,00008238_001.png,Atelectasis,1,8238,66,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008238_001.png
+3337,00017532_002.png,Edema,2,17532,58,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017532_002.png
+4157,00021209_004.png,Infiltration,4,21209,49,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021209_004.png
+420,00001836_055.png,No Finding,55,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_055.png
+1062,00005149_002.png,No Finding,2,5149,30,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005149_002.png
+2336,00010544_006.png,Infiltration,6,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_006.png
+149,00000193_019.png,Pneumonia,19,193,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000193_019.png
+1272,00005647_000.png,No Finding,0,5647,33,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005647_000.png
+3151,00016699_003.png,No Finding,3,16699,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016699_003.png
+3444,00017972_037.png,Pneumothorax,37,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_037.png
+1161,00005372_012.png,Atelectasis,12,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_012.png
+4685,00026925_009.png,Nodule,9,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_009.png
+4113,00021041_009.png,Effusion,9,21041,68,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021041_009.png
+2616,00012010_026.png,Infiltration,26,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_026.png
+1604,00007089_000.png,No Finding,0,7089,58,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007089_000.png
+594,00002194_003.png,No Finding,3,2194,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002194_003.png
+1627,00007152_005.png,No Finding,5,7152,52,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007152_005.png
+2931,00014241_001.png,No Finding,1,14241,64,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014241_001.png
+4040,00020837_001.png,No Finding,1,20837,27,F,AP,2500,2404,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020837_001.png
+1603,00007050_002.png,No Finding,2,7050,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007050_002.png
+2927,00014173_003.png,No Finding,3,14173,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014173_003.png
+1292,00005721_004.png,Mass,4,5721,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005721_004.png
+1727,00007347_001.png,No Finding,1,7347,75,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007347_001.png
+341,00001836_010.png,Consolidation,10,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_010.png
+1139,00005353_000.png,Consolidation,0,5353,31,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005353_000.png
+3869,00020213_053.png,No Finding,53,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_053.png
+4732,00027108_011.png,No Finding,11,27108,59,F,AP,3048,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027108_011.png
+1868,00008067_016.png,No Finding,16,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_016.png
+3387,00017972_005.png,No Finding,5,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_005.png
+478,00001836_097.png,Pleural_Thickening,97,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_097.png
+1661,00007212_019.png,Atelectasis,19,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_019.png
+816,00003394_005.png,No Finding,5,3394,69,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003394_005.png
+3085,00016075_003.png,No Finding,3,16075,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016075_003.png
+2362,00010544_024.png,Infiltration,24,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_024.png
+911,00004338_006.png,Pleural_Thickening,6,4338,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004338_006.png
+2660,00012479_003.png,No Finding,3,12479,69,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012479_003.png
+3487,00018371_000.png,Infiltration,0,18371,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018371_000.png
+4948,00028731_000.png,No Finding,0,28731,54,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028731_000.png
+3706,00019785_012.png,Infiltration,12,19785,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_012.png
+4712,00026925_030.png,Atelectasis,30,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_030.png
+2855,00013831_000.png,Atelectasis,0,13831,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013831_000.png
+187,00000797_004.png,No Finding,4,797,46,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000797_004.png
+3707,00019785_012.png,Nodule,12,19785,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_012.png
+119,00000179_002.png,Infiltration,2,179,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000179_002.png
+5453,00030152_007.png,Effusion,7,30152,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030152_007.png
+1253,00005593_010.png,Infiltration,10,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_010.png
+1938,00008277_000.png,Mass,0,8277,51,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008277_000.png
+2956,00014949_002.png,No Finding,2,14949,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014949_002.png
+5572,00030607_000.png,No Finding,0,30607,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030607_000.png
+1148,00005372_002.png,No Finding,2,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_002.png
+1216,00005493_011.png,Nodule,11,5493,71,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005493_011.png
+521,00001836_129.png,Fibrosis,129,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_129.png
+1377,00006160_014.png,No Finding,14,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_014.png
+1230,00005555_002.png,No Finding,2,5555,51,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005555_002.png
+80,00000032_043.png,Infiltration,43,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_043.png
+323,00001755_004.png,Atelectasis,4,1755,46,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001755_004.png
+3597,00019060_001.png,No Finding,1,19060,71,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019060_001.png
+4966,00028774_010.png,Atelectasis,10,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_010.png
+4690,00026925_013.png,Consolidation,13,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_013.png
+5353,00030079_037.png,No Finding,37,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_037.png
+4751,00027357_003.png,Infiltration,3,27357,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027357_003.png
+4549,00025778_000.png,No Finding,0,25778,42,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025778_000.png
+1580,00007007_014.png,Atelectasis,14,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_014.png
+2552,00011619_002.png,Effusion,2,11619,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011619_002.png
+1384,00006217_003.png,No Finding,3,6217,22,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006217_003.png
+2766,00013310_036.png,Infiltration,36,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_036.png
+4891,00028429_000.png,No Finding,0,28429,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028429_000.png
+3000,00015564_002.png,Effusion,2,15564,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015564_002.png
+4208,00021277_020.png,Edema,20,21277,19,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_020.png
+5252,00029855_001.png,Atelectasis,1,29855,42,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029855_001.png
+1270,00005643_004.png,Atelectasis,4,5643,55,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005643_004.png
+285,00001332_002.png,Infiltration,2,1332,17,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001332_002.png
+5205,00029670_000.png,Infiltration,0,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_000.png
+2827,00013352_003.png,No Finding,3,13352,62,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013352_003.png
+906,00004338_002.png,Edema,2,4338,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004338_002.png
+838,00003572_001.png,No Finding,1,3572,37,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003572_001.png
+3698,00019785_009.png,Pleural_Thickening,9,19785,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_009.png
+1745,00007441_010.png,No Finding,10,7441,48,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007441_010.png
+4073,00020852_018.png,Atelectasis,18,20852,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020852_018.png
+5121,00029343_002.png,Cardiomegaly,2,29343,80,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029343_002.png
+1065,00005162_002.png,No Finding,2,5162,29,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005162_002.png
+3921,00020213_081.png,Infiltration,81,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_081.png
+2856,00013831_001.png,No Finding,1,13831,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013831_001.png
+2621,00012010_031.png,No Finding,31,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_031.png
+2388,00010690_001.png,Pneumothorax,1,10690,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010690_001.png
+1769,00007678_000.png,No Finding,0,7678,61,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007678_000.png
+4756,00027357_008.png,No Finding,8,27357,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027357_008.png
+2291,00010142_005.png,Infiltration,5,10142,80,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010142_005.png
+604,00002466_004.png,Mass,4,2466,57,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002466_004.png
+2663,00012645_000.png,Atelectasis,0,12645,15,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012645_000.png
+4092,00020933_002.png,Pneumothorax,2,20933,59,F,AP,2892,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020933_002.png
+844,00003631_001.png,No Finding,1,3631,51,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003631_001.png
+1645,00007212_005.png,Atelectasis,5,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_005.png
+4056,00020852_009.png,Atelectasis,9,20852,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020852_009.png
+3366,00017827_000.png,No Finding,0,17827,12,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017827_000.png
+1245,00005593_003.png,No Finding,3,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_003.png
+1344,00006057_003.png,Edema,3,6057,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006057_003.png
+4773,00027608_002.png,Consolidation,2,27608,64,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027608_002.png
+4409,00022662_001.png,No Finding,1,22662,37,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022662_001.png
+2612,00012010_022.png,Infiltration,22,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_022.png
+1378,00006160_015.png,No Finding,15,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_015.png
+5298,00029969_003.png,Atelectasis,3,29969,61,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029969_003.png
+5060,00029030_000.png,Atelectasis,0,29030,64,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029030_000.png
+3530,00018829_000.png,Effusion,0,18829,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018829_000.png
+1103,00005201_008.png,Pneumothorax,8,5201,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005201_008.png
+2884,00013992_010.png,No Finding,10,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_010.png
+2173,00009846_001.png,Effusion,1,9846,66,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009846_001.png
+5091,00029279_000.png,Mass,0,29279,27,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029279_000.png
+1902,00008232_003.png,Effusion,3,8232,41,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008232_003.png
+4887,00028308_005.png,No Finding,5,28308,52,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028308_005.png
+835,00003560_000.png,No Finding,0,3560,64,F,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003560_000.png
+4688,00026925_012.png,Atelectasis,12,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_012.png
+3221,00016944_002.png,Edema,2,16944,21,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016944_002.png
+1711,00007322_019.png,Infiltration,19,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_019.png
+3263,00017178_002.png,No Finding,2,17178,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017178_002.png
+2133,00009666_000.png,Infiltration,0,9666,57,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009666_000.png
+2778,00013310_047.png,Infiltration,47,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_047.png
+95,00000032_052.png,Atelectasis,52,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_052.png
+1347,00006057_006.png,No Finding,6,6057,59,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006057_006.png
+4055,00020852_008.png,Effusion,8,20852,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020852_008.png
+813,00003394_002.png,Effusion,2,3394,69,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003394_002.png
+624,00002548_003.png,Nodule,3,2548,34,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002548_003.png
+2678,00012720_001.png,No Finding,1,12720,56,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012720_001.png
+114,00000156_001.png,Cardiomegaly,1,156,81,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000156_001.png
+465,00001836_088.png,Nodule,88,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_088.png
+4689,00026925_012.png,Consolidation,12,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_012.png
+549,00001921_005.png,No Finding,5,1921,40,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001921_005.png
+5478,00030209_009.png,Infiltration,9,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_009.png
+1472,00006663_000.png,Atelectasis,0,6663,48,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006663_000.png
+3665,00019499_006.png,Infiltration,6,19499,57,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019499_006.png
+3476,00018204_000.png,Cardiomegaly,0,18204,21,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018204_000.png
+555,00002072_001.png,Cardiomegaly,1,2072,9,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_001.png
+3356,00017635_008.png,No Finding,8,17635,41,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017635_008.png
+2524,00011396_000.png,No Finding,0,11396,40,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011396_000.png
+4466,00025247_001.png,No Finding,1,25247,30,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025247_001.png
+4522,00025628_022.png,Effusion,22,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_022.png
+3269,00017178_005.png,Effusion,5,17178,55,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017178_005.png
+701,00003186_006.png,No Finding,6,3186,47,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003186_006.png
+1060,00005149_000.png,Nodule,0,5149,30,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005149_000.png
+870,00003935_000.png,No Finding,0,3935,44,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003935_000.png
+1800,00008051_022.png,Atelectasis,22,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_022.png
+442,00001836_073.png,No Finding,73,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_073.png
+3775,00020213_000.png,Consolidation,0,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_000.png
+510,00001836_121.png,No Finding,121,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_121.png
+3500,00018411_001.png,No Finding,1,18411,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018411_001.png
+3193,00016786_010.png,Effusion,10,16786,23,F,AP,3305,2850,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_010.png
+836,00003560_001.png,No Finding,1,3560,65,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003560_001.png
+1471,00006653_030.png,No Finding,30,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_030.png
+1885,00008105_000.png,No Finding,0,8105,31,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008105_000.png
+1007,00004870_003.png,No Finding,3,4870,58,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004870_003.png
+4002,00020262_000.png,No Finding,0,20262,32,M,AP,2820,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020262_000.png
+3973,00020213_106.png,No Finding,106,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_106.png
+4828,00027787_001.png,Infiltration,1,27787,34,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027787_001.png
+3331,00017451_001.png,No Finding,1,17451,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017451_001.png
+5295,00029969_000.png,No Finding,0,29969,61,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029969_000.png
+2896,00013992_018.png,Infiltration,18,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_018.png
+4119,00021049_001.png,Mass,1,21049,61,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021049_001.png
+1217,00005493_012.png,No Finding,12,5493,71,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005493_012.png
+1136,00005345_001.png,No Finding,1,5345,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005345_001.png
+4248,00021287_005.png,Atelectasis,5,21287,57,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021287_005.png
+4502,00025628_006.png,Effusion,6,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_006.png
+875,00003991_001.png,Atelectasis,1,3991,65,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003991_001.png
+4852,00028160_001.png,No Finding,1,28160,18,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028160_001.png
+1252,00005593_009.png,Infiltration,9,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_009.png
+3752,00019953_001.png,Pneumothorax,1,19953,12,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019953_001.png
+433,00001836_068.png,Infiltration,68,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_068.png
+23,00000032_012.png,Pneumonia,12,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_012.png
+845,00003649_000.png,No Finding,0,3649,49,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003649_000.png
+3969,00020213_103.png,Atelectasis,103,20213,72,F,AP,3056,2384,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_103.png
+3060,00015768_008.png,Infiltration,8,15768,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015768_008.png
+3168,00016752_002.png,No Finding,2,16752,21,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016752_002.png
+4205,00021277_018.png,Pneumonia,18,21277,19,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_018.png
+2220,00009863_030.png,Infiltration,30,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_030.png
+244,00001278_002.png,Atelectasis,2,1278,53,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_002.png
+1479,00006663_003.png,Atelectasis,3,6663,48,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006663_003.png
+5107,00029328_001.png,No Finding,1,29328,59,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029328_001.png
+3793,00020213_008.png,Effusion,8,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_008.png
+3935,00020213_089.png,Effusion,89,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_089.png
+2319,00010347_001.png,Pneumonia,1,10347,34,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010347_001.png
+4632,00026497_000.png,No Finding,0,26497,21,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026497_000.png
+5456,00030152_009.png,Effusion,9,30152,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030152_009.png
+1281,00005683_005.png,Effusion,5,5683,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005683_005.png
+832,00003482_000.png,No Finding,0,3482,75,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003482_000.png
+3792,00020213_007.png,Effusion,7,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_007.png
+1367,00006160_006.png,Edema,6,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_006.png
+3999,00020249_004.png,No Finding,4,20249,26,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020249_004.png
+4335,00021802_001.png,Atelectasis,1,21802,66,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021802_001.png
+711,00003393_002.png,Consolidation,2,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_002.png
+3519,00018809_003.png,Effusion,3,18809,56,M,AP,3044,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018809_003.png
+5047,00028918_002.png,No Finding,2,28918,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028918_002.png
+2190,00009863_009.png,Atelectasis,9,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_009.png
+3360,00017756_001.png,Consolidation,1,17756,88,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017756_001.png
+1648,00007212_007.png,No Finding,7,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_007.png
+59,00000032_035.png,Edema,35,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_035.png
+2138,00009807_001.png,No Finding,1,9807,52,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009807_001.png
+3861,00020213_049.png,Mass,49,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_049.png
+3790,00020213_007.png,Atelectasis,7,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_007.png
+1797,00008051_020.png,Infiltration,20,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_020.png
+4530,00025628_026.png,Effusion,26,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_026.png
+5604,00030609_022.png,Infiltration,22,30609,6,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030609_022.png
+1964,00008713_003.png,No Finding,3,8713,31,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008713_003.png
+2582,00011894_008.png,No Finding,8,11894,22,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011894_008.png
+3912,00020213_076.png,Effusion,76,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_076.png
+3810,00020213_022.png,Infiltration,22,20213,72,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_022.png
+880,00004283_004.png,No Finding,4,4283,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004283_004.png
+936,00004643_005.png,No Finding,5,4643,54,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004643_005.png
+383,00001836_032.png,Mass,32,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_032.png
+2649,00012367_001.png,No Finding,1,12367,16,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012367_001.png
+5403,00030079_072.png,No Finding,72,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_072.png
+4449,00023150_001.png,No Finding,1,23150,14,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00023150_001.png
+5289,00029919_010.png,No Finding,10,29919,20,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_010.png
+1496,00006782_001.png,Infiltration,1,6782,53,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006782_001.png
+3309,00017424_023.png,Infiltration,23,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_023.png
+380,00001836_031.png,Infiltration,31,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_031.png
+1905,00008232_005.png,Effusion,5,8232,41,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008232_005.png
+3404,00017972_016.png,Emphysema,16,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_016.png
+950,00004705_001.png,No Finding,1,4705,40,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004705_001.png
+1328,00005952_001.png,Mass,1,5952,33,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005952_001.png
+1716,00007322_023.png,No Finding,23,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_023.png
+4897,00028443_000.png,Infiltration,0,28443,76,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028443_000.png
+276,00001303_002.png,Infiltration,2,1303,24,M,AP,3056,2504,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001303_002.png
+2646,00012185_002.png,No Finding,2,12185,28,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012185_002.png
+2973,00015304_000.png,Effusion,0,15304,61,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015304_000.png
+270,00001278_018.png,Effusion,18,1278,54,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_018.png
+2060,00009397_004.png,Consolidation,4,9397,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009397_004.png
+2952,00014907_001.png,No Finding,1,14907,63,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00014907_001.png
+2662,00012605_001.png,No Finding,1,12605,5,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012605_001.png
+5037,00028911_000.png,Atelectasis,0,28911,54,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028911_000.png
+3734,00019852_000.png,Infiltration,0,19852,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019852_000.png
+128,00000179_007.png,Effusion,7,179,63,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000179_007.png
+472,00001836_093.png,No Finding,93,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_093.png
+2496,00010949_002.png,Cardiomegaly,2,10949,44,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010949_002.png
+5569,00030604_000.png,No Finding,0,30604,30,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030604_000.png
+3239,00017081_001.png,No Finding,1,17081,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017081_001.png
+4968,00028774_011.png,No Finding,11,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_011.png
+406,00001836_047.png,Infiltration,47,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_047.png
+1647,00007212_006.png,No Finding,6,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_006.png
+2673,00012663_005.png,Infiltration,5,12663,21,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012663_005.png
+2548,00011528_004.png,No Finding,4,11528,74,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011528_004.png
+319,00001755_002.png,Consolidation,2,1755,46,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001755_002.png
+5117,00029343_000.png,Mass,0,29343,80,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029343_000.png
+4959,00028774_003.png,Infiltration,3,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_003.png
+2193,00009863_010.png,Infiltration,10,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_010.png
+3448,00017972_038.png,Pleural_Thickening,38,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_038.png
+2178,00009863_002.png,No Finding,2,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_002.png
+4099,00020999_002.png,Consolidation,2,20999,70,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020999_002.png
+3255,00017081_011.png,Pneumothorax,11,17081,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017081_011.png
+3003,00015564_005.png,No Finding,5,15564,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015564_005.png
+1433,00006502_000.png,Mass,0,6502,53,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006502_000.png
+2137,00009807_000.png,No Finding,0,9807,52,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009807_000.png
+1379,00006160_016.png,Infiltration,16,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_016.png
+4110,00021041_006.png,Mass,6,21041,68,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021041_006.png
+437,00001836_069.png,Fibrosis,69,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_069.png
+493,00001836_108.png,Atelectasis,108,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_108.png
+4691,00026925_014.png,No Finding,14,26925,38,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_014.png
+5022,00028774_047.png,Effusion,47,28774,68,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_047.png
+286,00001332_003.png,No Finding,3,1332,17,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001332_003.png
+3683,00019670_000.png,Cardiomegaly,0,19670,73,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019670_000.png
+3161,00016737_003.png,No Finding,3,16737,57,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016737_003.png
+1057,00005124_002.png,No Finding,2,5124,48,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005124_002.png
+4764,00027357_014.png,Infiltration,14,27357,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027357_014.png
+3750,00019953_001.png,Atelectasis,1,19953,12,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019953_001.png
+4081,00020855_000.png,No Finding,0,20855,64,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020855_000.png
+2866,00013916_000.png,No Finding,0,13916,17,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013916_000.png
+4612,00026274_000.png,No Finding,0,26274,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026274_000.png
+1541,00006993_004.png,Atelectasis,4,6993,56,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006993_004.png
+314,00001613_004.png,No Finding,4,1613,65,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001613_004.png
+4831,00027828_002.png,No Finding,2,27828,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027828_002.png
+1963,00008713_002.png,No Finding,2,8713,30,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008713_002.png
+1054,00005097_001.png,No Finding,1,5097,21,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005097_001.png
+1215,00005493_010.png,Nodule,10,5493,71,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005493_010.png
+3994,00020227_001.png,Infiltration,1,20227,88,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020227_001.png
+528,00001836_131.png,No Finding,131,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_131.png
+4432,00022982_000.png,Effusion,0,22982,39,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022982_000.png
+3072,00015964_002.png,No Finding,2,15964,59,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015964_002.png
+2581,00011894_007.png,No Finding,7,11894,22,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011894_007.png
+1198,00005466_002.png,Infiltration,2,5466,52,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005466_002.png
+1055,00005124_000.png,Nodule,0,5124,48,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005124_000.png
+2711,00013125_003.png,Infiltration,3,13125,38,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013125_003.png
+489,00001836_105.png,Infiltration,105,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_105.png
+3032,00015640_002.png,No Finding,2,15640,43,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015640_002.png
+1927,00008232_017.png,Effusion,17,8232,41,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008232_017.png
+5381,00030079_058.png,Infiltration,58,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_058.png
+2151,00009811_005.png,Cardiomegaly,5,9811,37,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009811_005.png
+4462,00025161_006.png,No Finding,6,25161,76,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025161_006.png
+2015,00009190_001.png,No Finding,1,9190,61,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009190_001.png
+2701,00013125_000.png,Cardiomegaly,0,13125,38,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013125_000.png
+1261,00005599_003.png,No Finding,3,5599,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005599_003.png
+5427,00030106_008.png,Effusion,8,30106,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030106_008.png
+5153,00029503_000.png,No Finding,0,29503,25,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029503_000.png
+940,00004678_000.png,No Finding,0,4678,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004678_000.png
+10,00000032_006.png,Atelectasis,6,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_006.png
+5397,00030079_068.png,Infiltration,68,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_068.png
+1059,00005149_000.png,Infiltration,0,5149,30,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005149_000.png
+441,00001836_072.png,No Finding,72,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_072.png
+1782,00008051_007.png,Atelectasis,7,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_007.png
+2242,00009863_047.png,No Finding,47,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_047.png
+1187,00005384_002.png,No Finding,2,5384,65,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005384_002.png
+1649,00007212_008.png,Atelectasis,8,7212,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007212_008.png
+5476,00030209_007.png,No Finding,7,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_007.png
+2174,00009846_001.png,Infiltration,1,9846,66,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009846_001.png
+5377,00030079_055.png,Infiltration,55,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_055.png
+649,00002785_006.png,Consolidation,6,2785,42,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002785_006.png
+3434,00017972_032.png,Pleural_Thickening,32,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_032.png
+2865,00013881_005.png,Consolidation,5,13881,10,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013881_005.png
+5393,00030079_066.png,Pneumonia,66,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_066.png
+154,00000268_000.png,No Finding,0,268,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000268_000.png
+4687,00026925_011.png,Consolidation,11,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_011.png
+1288,00005721_002.png,Mass,2,5721,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005721_002.png
+3559,00018829_020.png,Infiltration,20,18829,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018829_020.png
+3150,00016699_002.png,No Finding,2,16699,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016699_002.png
+4006,00020374_000.png,Nodule,0,20374,43,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020374_000.png
+2725,00013310_002.png,Pleural_Thickening,2,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_002.png
+1213,00005493_008.png,No Finding,8,5493,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005493_008.png
+4931,00028583_006.png,Pneumothorax,6,28583,23,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028583_006.png
+1513,00006904_010.png,No Finding,10,6904,40,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006904_010.png
+4844,00028007_001.png,Atelectasis,1,28007,61,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028007_001.png
+5423,00030106_006.png,Effusion,6,30106,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030106_006.png
+3140,00016554_004.png,Effusion,4,16554,26,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016554_004.png
+5543,00030419_001.png,Effusion,1,30419,12,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030419_001.png
+2092,00009525_001.png,Atelectasis,1,9525,73,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009525_001.png
+1966,00008734_000.png,No Finding,0,8734,18,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008734_000.png
+4741,00027228_002.png,Effusion,2,27228,41,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027228_002.png
+332,00001836_004.png,Infiltration,4,1836,48,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_004.png
+5466,00030167_005.png,Atelectasis,5,30167,56,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030167_005.png
+5179,00029526_008.png,Consolidation,8,29526,34,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029526_008.png
+5609,00030621_000.png,No Finding,0,30621,22,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030621_000.png
+3635,00019307_001.png,No Finding,1,19307,16,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019307_001.png
+5316,00030079_009.png,Infiltration,9,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_009.png
+1274,00005683_000.png,Nodule,0,5683,53,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005683_000.png
+1122,00005231_000.png,No Finding,0,5231,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005231_000.png
+5490,00030245_002.png,No Finding,2,30245,33,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030245_002.png
+623,00002548_003.png,Pneumonia,3,2548,34,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002548_003.png
+292,00001461_003.png,Nodule,3,1461,64,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001461_003.png
+2545,00011528_001.png,No Finding,1,11528,74,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011528_001.png
+4995,00028774_029.png,Effusion,29,28774,68,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_029.png
+1501,00006872_000.png,No Finding,0,6872,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006872_000.png
+2658,00012479_001.png,No Finding,1,12479,69,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012479_001.png
+727,00003393_013.png,Infiltration,13,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_013.png
+1480,00006663_003.png,Infiltration,3,6663,48,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006663_003.png
+674,00003005_016.png,No Finding,16,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_016.png
+699,00003186_005.png,Infiltration,5,3186,47,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003186_005.png
+1370,00006160_008.png,No Finding,8,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_008.png
+998,00004849_000.png,No Finding,0,4849,22,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004849_000.png
+4638,00026554_000.png,No Finding,0,26554,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026554_000.png
+1164,00005372_013.png,Consolidation,13,5372,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005372_013.png
+3267,00017178_004.png,Effusion,4,17178,55,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017178_004.png
+5488,00030245_000.png,No Finding,0,30245,33,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030245_000.png
+2415,00010698_018.png,Infiltration,18,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_018.png
+3319,00017424_031.png,Infiltration,31,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_031.png
+3089,00016075_007.png,No Finding,7,16075,62,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016075_007.png
+4783,00027657_006.png,Consolidation,6,27657,75,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027657_006.png
+1976,00008774_003.png,Atelectasis,3,8774,26,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008774_003.png
+4230,00021277_039.png,No Finding,39,21277,20,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_039.png
+3687,00019785_000.png,Atelectasis,0,19785,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_000.png
+3889,00020213_064.png,Consolidation,64,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_064.png
+1611,00007133_001.png,Infiltration,1,7133,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007133_001.png
+475,00001836_096.png,Infiltration,96,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_096.png
+3882,00020213_058.png,Effusion,58,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_058.png
+1837,00008051_041.png,Effusion,41,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_041.png
+2284,00010059_001.png,No Finding,1,10059,10,F,AP,2036,1968,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010059_001.png
+5510,00030286_005.png,No Finding,5,30286,41,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030286_005.png
+4154,00021209_003.png,Infiltration,3,21209,49,M,AP,2964,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021209_003.png
+4515,00025628_017.png,Effusion,17,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_017.png
+3814,00020213_026.png,Consolidation,26,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_026.png
+2699,00013095_000.png,No Finding,0,13095,53,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013095_000.png
+3801,00020213_015.png,Effusion,15,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_015.png
+3275,00017209_001.png,No Finding,1,17209,26,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017209_001.png
+2428,00010698_028.png,Effusion,28,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_028.png
+172,00000522_002.png,No Finding,2,522,19,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000522_002.png
+658,00003005_000.png,No Finding,0,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_000.png
+851,00003649_003.png,Pleural_Thickening,3,3649,50,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003649_003.png
+2903,00013992_023.png,Infiltration,23,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_023.png
+1017,00005061_000.png,Nodule,0,5061,18,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005061_000.png
+3466,00018013_001.png,No Finding,1,18013,69,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018013_001.png
+3978,00020213_110.png,Effusion,110,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_110.png
+5618,00030639_000.png,No Finding,0,30639,60,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030639_000.png
+2198,00009863_014.png,Infiltration,14,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_014.png
+4631,00026368_001.png,Atelectasis,1,26368,63,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026368_001.png
+159,00000415_000.png,Nodule,0,415,68,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000415_000.png
+536,00001854_002.png,No Finding,2,1854,16,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001854_002.png
+5116,00029334_001.png,Infiltration,1,29334,65,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029334_001.png
+2497,00010949_003.png,Effusion,3,10949,44,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010949_003.png
+2067,00009397_009.png,Nodule,9,9397,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009397_009.png
+2883,00013992_009.png,Effusion,9,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_009.png
+4837,00027982_000.png,Effusion,0,27982,36,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027982_000.png
+4328,00021725_000.png,Infiltration,0,21725,64,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021725_000.png
+456,00001836_082.png,Nodule,82,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_082.png
+2891,00013992_016.png,Atelectasis,16,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_016.png
+1952,00008470_006.png,No Finding,6,8470,30,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008470_006.png
+1422,00006323_004.png,No Finding,4,6323,49,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006323_004.png
+1996,00009116_000.png,Effusion,0,9116,78,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009116_000.png
+3716,00019785_017.png,Effusion,17,19785,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_017.png
+3899,00020213_070.png,Atelectasis,70,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_070.png
+3039,00015640_009.png,No Finding,9,15640,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015640_009.png
+4519,00025628_020.png,Mass,20,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_020.png
+3381,00017934_001.png,No Finding,1,17934,71,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017934_001.png
+2308,00010230_000.png,No Finding,0,10230,1,M,AP,2048,2500,0.115,0.115,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010230_000.png
+925,00004521_001.png,No Finding,1,4521,68,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004521_001.png
+4930,00028583_006.png,Infiltration,6,28583,23,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028583_006.png
+463,00001836_088.png,Consolidation,88,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_088.png
+297,00001528_003.png,Nodule,3,1528,51,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001528_003.png
+4939,00028605_000.png,No Finding,0,28605,43,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028605_000.png
+2809,00013310_062.png,Pneumothorax,62,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_062.png
+1864,00008067_012.png,Infiltration,12,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_012.png
+2605,00012010_015.png,No Finding,15,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_015.png
+3403,00017972_016.png,Pneumothorax,16,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_016.png
+982,00004787_001.png,No Finding,1,4787,33,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004787_001.png
+917,00004427_000.png,No Finding,0,4427,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004427_000.png
+2385,00010635_002.png,No Finding,2,10635,66,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010635_002.png
+830,00003465_007.png,No Finding,7,3465,6,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003465_007.png
+2791,00013310_054.png,Emphysema,54,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_054.png
+2728,00013310_005.png,No Finding,5,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_005.png
+209,00000831_012.png,Consolidation,12,831,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000831_012.png
+5215,00029670_004.png,Effusion,4,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_004.png
+663,00003005_005.png,Effusion,5,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_005.png
+45,00000032_030.png,Cardiomegaly,30,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_030.png
+4527,00025628_024.png,Infiltration,24,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_024.png
+1814,00008051_028.png,Mass,28,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_028.png
+4562,00025896_003.png,No Finding,3,25896,29,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025896_003.png
+5085,00029235_006.png,Atelectasis,6,29235,69,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029235_006.png
+2528,00011396_004.png,No Finding,4,11396,40,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011396_004.png
+4964,00028774_008.png,No Finding,8,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_008.png
+252,00001278_007.png,No Finding,7,1278,54,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_007.png
+3045,00015650_002.png,Infiltration,2,15650,14,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015650_002.png
+787,00003393_058.png,Effusion,58,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_058.png
+4961,00028774_005.png,No Finding,5,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_005.png
+5452,00030152_006.png,Consolidation,6,30152,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030152_006.png
+3595,00019058_005.png,No Finding,5,19058,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019058_005.png
+834,00003482_002.png,No Finding,2,3482,75,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003482_002.png
+2070,00009397_012.png,Nodule,12,9397,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009397_012.png
+3783,00020213_003.png,Effusion,3,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_003.png
+1593,00007007_021.png,Atelectasis,21,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_021.png
+1799,00008051_021.png,Infiltration,21,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_021.png
+3349,00017635_003.png,Edema,3,17635,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017635_003.png
+4907,00028549_000.png,No Finding,0,28549,33,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028549_000.png
+4556,00025838_005.png,No Finding,5,25838,71,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025838_005.png
+693,00003186_000.png,Emphysema,0,3186,47,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003186_000.png
+4822,00027763_000.png,No Finding,0,27763,47,F,AP,3056,2540,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027763_000.png
+1043,00005094_016.png,Pleural_Thickening,16,5094,56,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005094_016.png
+55,00000032_034.png,Edema,34,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_034.png
+2143,00009811_000.png,No Finding,0,9811,37,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009811_000.png
+2780,00013310_048.png,Emphysema,48,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_048.png
+3515,00018809_000.png,Atelectasis,0,18809,57,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018809_000.png
+1619,00007133_007.png,Infiltration,7,7133,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007133_007.png
+618,00002548_000.png,Consolidation,0,2548,34,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002548_000.png
+4905,00028537_000.png,No Finding,0,28537,43,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028537_000.png
+5313,00030079_007.png,Effusion,7,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_007.png
+677,00003005_018.png,Pleural_Thickening,18,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_018.png
+3021,00015572_006.png,Consolidation,6,15572,68,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015572_006.png
+1028,00005094_006.png,Effusion,6,5094,56,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005094_006.png
+97,00000032_052.png,Edema,52,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_052.png
+9,00000032_005.png,No Finding,5,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_005.png
+5320,00030079_012.png,Consolidation,12,30079,16,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_012.png
+96,00000032_052.png,Infiltration,52,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_052.png
+5354,00030079_038.png,Infiltration,38,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_038.png
+748,00003393_031.png,Infiltration,31,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_031.png
+2832,00013357_000.png,No Finding,0,13357,53,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013357_000.png
+3713,00019785_016.png,Pneumothorax,16,19785,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019785_016.png
+3847,00020213_045.png,Mass,45,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_045.png
+471,00001836_092.png,No Finding,92,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_092.png
+317,00001755_000.png,No Finding,0,1755,46,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001755_000.png
+5212,00029670_003.png,Infiltration,3,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_003.png
+1128,00005318_000.png,Mass,0,5318,15,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005318_000.png
+4334,00021802_000.png,Atelectasis,0,21802,66,F,AP,2840,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021802_000.png
+1470,00006653_029.png,No Finding,29,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_029.png
+4294,00021565_005.png,No Finding,5,21565,38,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021565_005.png
+3569,00018852_000.png,No Finding,0,18852,68,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018852_000.png
+278,00001303_004.png,Fibrosis,4,1303,24,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001303_004.png
+5613,00030621_004.png,Infiltration,4,30621,22,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030621_004.png
+3877,00020213_056.png,Infiltration,56,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_056.png
+4188,00021277_009.png,No Finding,9,21277,19,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_009.png
+5019,00028774_045.png,No Finding,45,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_045.png
+5468,00030167_005.png,Effusion,5,30167,56,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030167_005.png
+1583,00007007_016.png,Pneumonia,16,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_016.png
+2317,00010347_001.png,Edema,1,10347,34,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010347_001.png
+376,00001836_029.png,Mass,29,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_029.png
+3854,00020213_048.png,Effusion,48,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_048.png
+5472,00030209_003.png,No Finding,3,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_003.png
+2047,00009367_007.png,Atelectasis,7,9367,26,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009367_007.png
+141,00000193_011.png,No Finding,11,193,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000193_011.png
+54,00000032_034.png,Infiltration,34,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_034.png
+2812,00013310_065.png,Infiltration,65,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_065.png
+152,00000210_000.png,No Finding,0,210,67,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000210_000.png
+2163,00009835_000.png,Atelectasis,0,9835,66,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009835_000.png
+2598,00012010_008.png,Infiltration,8,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_008.png
+1358,00006130_000.png,Atelectasis,0,6130,68,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006130_000.png
+4078,00020852_021.png,Effusion,21,20852,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020852_021.png
+2848,00013548_002.png,No Finding,2,13548,47,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013548_002.png
+5225,00029670_008.png,Atelectasis,8,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_008.png
+4651,00026701_001.png,Effusion,1,26701,69,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026701_001.png
+452,00001836_080.png,No Finding,80,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_080.png
+4295,00021565_006.png,No Finding,6,21565,39,M,AP,3056,2440,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021565_006.png
+4990,00028774_025.png,Effusion,25,28774,68,F,AP,3827,3567,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_025.png
+2515,00011266_000.png,No Finding,0,11266,21,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011266_000.png
+3749,00019953_000.png,No Finding,0,19953,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019953_000.png
+659,00003005_001.png,Atelectasis,1,3005,50,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003005_001.png
+5036,00028903_004.png,No Finding,4,28903,64,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028903_004.png
+3146,00016678_005.png,Atelectasis,5,16678,57,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016678_005.png
+2603,00012010_013.png,No Finding,13,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_013.png
+492,00001836_107.png,No Finding,107,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_107.png
+1133,00005333_000.png,No Finding,0,5333,69,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005333_000.png
+4408,00022662_000.png,No Finding,0,22662,40,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022662_000.png
+889,00004316_002.png,Infiltration,2,4316,45,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004316_002.png
+5487,00030233_002.png,No Finding,2,30233,43,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030233_002.png
+2155,00009822_000.png,Infiltration,0,9822,29,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009822_000.png
+4425,00022772_001.png,Mass,1,22772,43,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022772_001.png
+4985,00028774_022.png,No Finding,22,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_022.png
+554,00002072_000.png,Atelectasis,0,2072,8,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_000.png
+1295,00005744_001.png,Infiltration,1,5744,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005744_001.png
+1440,00006653_005.png,No Finding,5,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_005.png
+280,00001305_001.png,No Finding,1,1305,31,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001305_001.png
+4636,00026497_004.png,No Finding,4,26497,22,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026497_004.png
+3354,00017635_006.png,Effusion,6,17635,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017635_006.png
+2194,00009863_010.png,Mass,10,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_010.png
+4390,00022429_003.png,No Finding,3,22429,9,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00022429_003.png
+3261,00017178_000.png,Mass,0,17178,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017178_000.png
+933,00004643_002.png,No Finding,2,4643,54,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004643_002.png
+5373,00030079_051.png,Nodule,51,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_051.png
+771,00003393_047.png,No Finding,47,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_047.png
+5285,00029919_007.png,Effusion,7,29919,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_007.png
+192,00000831_001.png,Infiltration,1,831,18,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000831_001.png
+5010,00028774_038.png,Mass,38,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_038.png
+5123,00029377_000.png,No Finding,0,29377,65,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029377_000.png
+1106,00005204_000.png,No Finding,0,5204,6,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005204_000.png
+1558,00007007_002.png,Consolidation,2,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_002.png
+49,00000032_032.png,Edema,32,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_032.png
+564,00002072_004.png,Infiltration,4,2072,9,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_004.png
+1955,00008470_009.png,No Finding,9,8470,30,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008470_009.png
+2917,00013992_029.png,Infiltration,29,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_029.png
+1612,00007133_002.png,Atelectasis,2,7133,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007133_002.png
+4960,00028774_004.png,No Finding,4,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_004.png
+1361,00006160_001.png,Edema,1,6160,66,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006160_001.png
+913,00004338_008.png,No Finding,8,4338,50,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004338_008.png
+4541,00025691_003.png,Effusion,3,25691,75,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025691_003.png
+2682,00012779_000.png,No Finding,0,12779,36,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012779_000.png
+3114,00016413_001.png,Fibrosis,1,16413,20,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016413_001.png
+3924,00020213_083.png,No Finding,83,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_083.png
+5617,00030621_006.png,Infiltration,6,30621,22,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030621_006.png
+1637,00007171_000.png,No Finding,0,7171,50,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007171_000.png
+370,00001836_025.png,Atelectasis,25,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_025.png
+459,00001836_084.png,No Finding,84,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_084.png
+92,00000032_050.png,Infiltration,50,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_050.png
+3429,00017972_030.png,Infiltration,30,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_030.png
+235,00001226_000.png,No Finding,0,1226,80,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001226_000.png
+5629,00030733_005.png,No Finding,5,30733,26,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030733_005.png
+3332,00017456_000.png,No Finding,0,17456,52,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017456_000.png
+4082,00020855_001.png,Effusion,1,20855,64,F,AP,3056,2540,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020855_001.png
+1876,00008067_022.png,Infiltration,22,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_022.png
+2839,00013527_003.png,Atelectasis,3,13527,61,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013527_003.png
+1249,00005593_007.png,Infiltration,7,5593,42,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005593_007.png
+3818,00020213_030.png,No Finding,30,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_030.png
+4004,00020374_000.png,Infiltration,0,20374,43,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020374_000.png
+491,00001836_106.png,No Finding,106,1836,50,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_106.png
+690,00003178_000.png,No Finding,0,3178,58,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003178_000.png
+2575,00011894_001.png,No Finding,1,11894,22,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011894_001.png
+4840,00027982_003.png,No Finding,3,27982,36,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027982_003.png
+4893,00028429_002.png,No Finding,2,28429,58,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028429_002.png
+3981,00020213_112.png,Atelectasis,112,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_112.png
+1932,00008233_000.png,No Finding,0,8233,80,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008233_000.png
+4829,00027828_000.png,No Finding,0,27828,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027828_000.png
+3440,00017972_036.png,Infiltration,36,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_036.png
+3118,00016452_003.png,No Finding,3,16452,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016452_003.png
+1884,00008067_026.png,Infiltration,26,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_026.png
+4276,00021508_001.png,Atelectasis,1,21508,87,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021508_001.png
+5469,00030209_000.png,No Finding,0,30209,10,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030209_000.png
+1491,00006768_001.png,No Finding,1,6768,62,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006768_001.png
+3914,00020213_078.png,Atelectasis,78,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_078.png
+1118,00005224_001.png,Effusion,1,5224,51,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005224_001.png
+3594,00019058_004.png,Nodule,4,19058,59,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019058_004.png
+4944,00028664_003.png,No Finding,3,28664,43,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028664_003.png
+2277,00010010_008.png,No Finding,8,10010,34,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010010_008.png
+2384,00010635_001.png,Effusion,1,10635,66,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010635_001.png
+2042,00009367_004.png,Effusion,4,9367,26,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009367_004.png
+363,00001836_019.png,No Finding,19,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_019.png
+2262,00009986_000.png,No Finding,0,9986,62,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009986_000.png
+2347,00010544_014.png,Consolidation,14,10544,33,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010544_014.png
+1713,00007322_020.png,Effusion,20,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_020.png
+1816,00008051_029.png,Infiltration,29,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_029.png
+3325,00017424_037.png,Edema,37,17424,14,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017424_037.png
+2312,00010267_000.png,No Finding,0,10267,45,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010267_000.png
+1524,00006973_000.png,Effusion,0,6973,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006973_000.png
+70,00000032_039.png,Consolidation,39,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_039.png
+3970,00020213_103.png,Infiltration,103,20213,72,F,AP,3056,2384,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_103.png
+1489,00006744_001.png,Effusion,1,6744,51,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006744_001.png
+4813,00027750_001.png,No Finding,1,27750,10,M,AP,2372,2532,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027750_001.png
+2858,00013881_001.png,Edema,1,13881,10,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013881_001.png
+1803,00008051_023.png,Infiltration,23,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_023.png
+275,00001303_002.png,Consolidation,2,1303,24,M,AP,3056,2504,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001303_002.png
+2285,00010142_000.png,No Finding,0,10142,80,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010142_000.png
+5016,00028774_042.png,Infiltration,42,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_042.png
+178,00000640_000.png,Infiltration,0,640,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000640_000.png
+2296,00010142_008.png,Effusion,8,10142,80,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010142_008.png
+973,00004761_002.png,No Finding,2,4761,62,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004761_002.png
+2426,00010698_027.png,No Finding,27,10698,74,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010698_027.png
+3405,00017972_017.png,No Finding,17,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_017.png
+5528,00030358_002.png,No Finding,2,30358,49,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030358_002.png
+2721,00013300_004.png,No Finding,4,13300,16,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013300_004.png
+4570,00025958_002.png,No Finding,2,25958,5,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025958_002.png
+5020,00028774_046.png,Infiltration,46,28774,68,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028774_046.png
+2024,00009298_001.png,No Finding,1,9298,66,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009298_001.png
+83,00000032_045.png,Infiltration,45,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_045.png
+5128,00029385_002.png,No Finding,2,29385,52,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029385_002.png
+5524,00030355_000.png,Infiltration,0,30355,27,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030355_000.png
+186,00000797_003.png,No Finding,3,797,46,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000797_003.png
+4598,00026113_001.png,Infiltration,1,26113,70,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026113_001.png
+3355,00017635_007.png,No Finding,7,17635,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017635_007.png
+4839,00027982_002.png,No Finding,2,27982,36,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027982_002.png
+110,00000032_060.png,Edema,60,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_060.png
+3782,00020213_003.png,Infiltration,3,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_003.png
+1980,00008774_005.png,Consolidation,5,8774,26,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008774_005.png
+3509,00018748_001.png,Nodule,1,18748,57,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018748_001.png
+3182,00016786_003.png,Consolidation,3,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_003.png
+1556,00007007_001.png,Consolidation,1,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_001.png
+5607,00030609_025.png,Infiltration,25,30609,6,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030609_025.png
+4744,00027292_000.png,Cardiomegaly,0,27292,26,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027292_000.png
+1523,00006973_000.png,Atelectasis,0,6973,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006973_000.png
+3196,00016786_012.png,No Finding,12,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_012.png
+3377,00017858_005.png,Fibrosis,5,17858,53,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017858_005.png
+5341,00030079_028.png,Infiltration,28,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_028.png
+2316,00010347_000.png,Infiltration,0,10347,34,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010347_000.png
+1125,00005231_003.png,Atelectasis,3,5231,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005231_003.png
+4236,00021284_002.png,Atelectasis,2,21284,49,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021284_002.png
+829,00003465_006.png,Infiltration,6,3465,6,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003465_006.png
+2720,00013300_003.png,Effusion,3,13300,16,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013300_003.png
+411,00001836_049.png,Atelectasis,49,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_049.png
+1399,00006237_014.png,No Finding,14,6237,57,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006237_014.png
+3187,00016786_006.png,Consolidation,6,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_006.png
+2897,00013992_018.png,Cardiomegaly,18,13992,60,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013992_018.png
+610,00002484_000.png,Atelectasis,0,2484,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002484_000.png
+894,00004316_004.png,Consolidation,4,4316,45,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004316_004.png
+2615,00012010_025.png,Infiltration,25,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_025.png
+3205,00016786_019.png,Infiltration,19,16786,23,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016786_019.png
+645,00002785_003.png,No Finding,3,2785,42,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002785_003.png
+3756,00019996_000.png,Nodule,0,19996,48,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019996_000.png
+740,00003393_024.png,Effusion,24,3393,58,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003393_024.png
+979,00004761_006.png,Consolidation,6,4761,62,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004761_006.png
+4175,00021277_000.png,Pleural_Thickening,0,21277,19,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_000.png
+4141,00021182_004.png,Atelectasis,4,21182,36,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021182_004.png
+2058,00009397_003.png,Infiltration,3,9397,45,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009397_003.png
+1468,00006653_027.png,No Finding,27,6653,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006653_027.png
+5062,00029135_000.png,Effusion,0,29135,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029135_000.png
+4574,00025958_004.png,Consolidation,4,25958,5,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025958_004.png
+2702,00013125_000.png,Effusion,0,13125,38,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013125_000.png
+5421,00030106_005.png,Cardiomegaly,5,30106,73,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030106_005.png
+4902,00028501_000.png,Pneumothorax,0,28501,61,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028501_000.png
+5571,00030604_002.png,Atelectasis,2,30604,30,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030604_002.png
+1605,00007089_001.png,No Finding,1,7089,58,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007089_001.png
+1789,00008051_013.png,No Finding,13,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_013.png
+946,00004700_000.png,Atelectasis,0,4700,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004700_000.png
+5089,00029245_001.png,Infiltration,1,29245,5,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029245_001.png
+3454,00017972_041.png,Pleural_Thickening,41,17972,15,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017972_041.png
+1668,00007233_003.png,No Finding,3,7233,30,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007233_003.png
+2853,00013762_001.png,No Finding,1,13762,37,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013762_001.png
+1850,00008067_002.png,No Finding,2,8067,44,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008067_002.png
+3529,00018819_006.png,Nodule,6,18819,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018819_006.png
+1726,00007347_000.png,No Finding,0,7347,74,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007347_000.png
+4533,00025685_000.png,No Finding,0,25685,52,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025685_000.png
+3116,00016452_001.png,No Finding,1,16452,53,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016452_001.png
+600,00002466_001.png,No Finding,1,2466,57,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002466_001.png
+951,00004706_000.png,No Finding,0,4706,66,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004706_000.png
+590,00002160_001.png,No Finding,1,2160,57,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002160_001.png
+3066,00015927_001.png,No Finding,1,15927,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015927_001.png
+3070,00015964_000.png,No Finding,0,15964,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015964_000.png
+1324,00005944_001.png,Atelectasis,1,5944,33,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005944_001.png
+2801,00013310_059.png,Infiltration,59,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_059.png
+5283,00029919_006.png,Effusion,6,29919,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_006.png
+3229,00016954_002.png,No Finding,2,16954,33,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016954_002.png
+3352,00017635_005.png,No Finding,5,17635,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017635_005.png
+4194,00021277_013.png,Pleural_Thickening,13,21277,19,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021277_013.png
+31,00000032_020.png,No Finding,20,32,55,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000032_020.png
+4660,00026813_001.png,Pleural_Thickening,1,26813,54,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026813_001.png
+4845,00028007_001.png,Infiltration,1,28007,61,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028007_001.png
+2623,00012010_033.png,No Finding,33,12010,54,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012010_033.png
+205,00000831_010.png,Nodule,10,831,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000831_010.png
+5489,00030245_001.png,No Finding,1,30245,34,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030245_001.png
+5590,00030609_012.png,Atelectasis,12,30609,6,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030609_012.png
+3866,00020213_052.png,Atelectasis,52,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_052.png
+2556,00011619_005.png,No Finding,5,11619,30,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00011619_005.png
+3543,00018829_010.png,Effusion,10,18829,55,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00018829_010.png
+1718,00007322_025.png,No Finding,25,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_025.png
+1818,00008051_029.png,Mass,29,8051,49,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00008051_029.png
+2638,00012108_001.png,No Finding,1,12108,77,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012108_001.png
+3871,00020213_054.png,Infiltration,54,20213,72,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_054.png
+1083,00005194_003.png,No Finding,3,5194,41,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005194_003.png
+5207,00029670_001.png,No Finding,1,29670,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_001.png
+1212,00005493_007.png,No Finding,7,5493,70,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005493_007.png
+2976,00015304_001.png,Consolidation,1,15304,61,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00015304_001.png
+1754,00007500_000.png,Atelectasis,0,7500,6,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007500_000.png
+1120,00005224_003.png,Atelectasis,3,5224,51,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005224_003.png
+4327,00021725_000.png,Consolidation,0,21725,64,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021725_000.png
+4509,00025628_012.png,No Finding,12,25628,76,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00025628_012.png
+2006,00009120_005.png,No Finding,5,9120,41,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009120_005.png
+5266,00029919_000.png,No Finding,0,29919,20,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029919_000.png
+567,00002072_006.png,Atelectasis,6,2072,10,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_006.png
+1688,00007322_004.png,Effusion,4,7322,68,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007322_004.png
+3898,00020213_069.png,Effusion,69,20213,72,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00020213_069.png
+4709,00026925_028.png,Atelectasis,28,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_028.png
+4642,00026554_003.png,Edema,3,26554,16,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026554_003.png
+4359,00021982_002.png,Atelectasis,2,21982,69,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021982_002.png
+558,00002072_002.png,Consolidation,2,2072,9,M,AP,2048,2500,0.115,0.115,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00002072_002.png
+5134,00029389_001.png,Consolidation,1,29389,56,M,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029389_001.png
+4702,00026925_023.png,Atelectasis,23,26925,38,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026925_023.png
+5533,00030412_000.png,Cardiomegaly,0,30412,75,F,AP,2544,3056,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030412_000.png
+1100,00005201_006.png,Pneumothorax,6,5201,47,M,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00005201_006.png
+3636,00019332_000.png,No Finding,0,19332,62,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00019332_000.png
+2116,00009621_002.png,Infiltration,2,9621,2,F,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009621_002.png
+5221,00029670_007.png,Atelectasis,7,29670,76,F,AP,3550,3166,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029670_007.png
+707,00003316_001.png,Atelectasis,1,3316,30,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00003316_001.png
+5328,00030079_017.png,No Finding,17,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_017.png
+3153,00016729_000.png,No Finding,0,16729,61,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00016729_000.png
+1571,00007007_007.png,Infiltration,7,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_007.png
+408,00001836_048.png,Infiltration,48,1836,49,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001836_048.png
+247,00001278_002.png,Mass,2,1278,53,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00001278_002.png
+1537,00006993_000.png,No Finding,0,6993,56,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00006993_000.png
+2229,00009863_038.png,Infiltration,38,9863,40,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00009863_038.png
+4583,00026032_004.png,No Finding,4,26032,73,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026032_004.png
+5350,00030079_034.png,Consolidation,34,30079,16,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030079_034.png
+883,00004285_001.png,Infiltration,1,4285,43,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004285_001.png
+1559,00007007_002.png,Pneumonia,2,7007,45,F,AP,2500,2048,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00007007_002.png
+4817,00027757_000.png,No Finding,0,27757,21,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027757_000.png
+5168,00029526_000.png,Infiltration,0,29526,34,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029526_000.png
+2269,00010010_002.png,Infiltration,2,10010,34,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00010010_002.png
+2708,00013125_002.png,Infiltration,2,13125,38,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013125_002.png
+206,00000831_010.png,Mass,10,831,25,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00000831_010.png
+4253,00021287_008.png,Pleural_Thickening,8,21287,57,M,AP,3052,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00021287_008.png
+2654,00012428_003.png,No Finding,3,12428,62,F,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00012428_003.png
+5079,00029235_002.png,Pneumothorax,2,29235,69,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00029235_002.png
+2744,00013310_018.png,No Finding,18,13310,58,M,AP,2500,2048,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00013310_018.png
+4665,00026867_003.png,Infiltration,3,26867,32,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00026867_003.png
+4737,00027128_001.png,No Finding,1,27128,38,M,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00027128_001.png
+5628,00030733_004.png,No Finding,4,30733,26,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00030733_004.png
+5042,00028911_005.png,No Finding,5,28911,54,F,AP,3056,2544,0.139,0.139,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00028911_005.png
+952,00004706_001.png,No Finding,1,4706,66,M,AP,2048,2500,0.171,0.171,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00004706_001.png
+3273,00017178_007.png,Cardiomegaly,7,17178,55,M,AP,2048,2500,0.168,0.168,/Users/swchoi1994/Documents/DL_Projects/Chest-X-ray-DL/NIH/X_Rays/00017178_007.png
