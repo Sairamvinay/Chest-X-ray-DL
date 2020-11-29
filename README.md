@@ -45,20 +45,20 @@ We have then resized the images and saved as pickle files
         1. Train, test, validate X,Y sets
         1. DenseNet modeling experiment with LSTM/without LSTM
 1. `DenseNetPAModellingFinal.ipynb` and `DenseNet_AP_Modeling.ipynb`
-    1. DenseNet in-depth modeling experiment with LSTM/without LSTM on PA and AP
-    1. DenseNet with LSTM/without LSTM result ROC analysis
-    1. DenseNet with LSTM/without LSTM result Loss analysis
-    1. DenseNet with LSTM/without LSTM result Accuracy analysis
+    1. DenseNet169 in-depth modeling experiment with LSTM/without LSTM on PA and AP
+    1. DenseNet169 with LSTM/without LSTM result ROC analysis
+    1. DenseNet169 with LSTM/without LSTM result Loss analysis
+    1. DenseNet169 with LSTM/without LSTM result Accuracy analysis
 1. `Modeling_MobileNetV2_AP_.ipynb` and `Modeling_MobileNetV2_PA_.ipynb`
     1. MobileNetV2 in-depth modeling experiment with LSTM/without LSTM on PA and AP
     1. MobileNetV2 with LSTM/without LSTM result ROC analysis
     1. MobileNetV2 with LSTM/without LSTM result Loss analysis
     1. MobileNetV2 with LSTM/without LSTM result Accuracy analysis
 1. `Modeling_ResNetV2_AP_.ipynb` and `Modeling_ResNetV2_PA_.ipynb`
-    1. ResNetV2 in-depth modeling experiment with LSTM/without LSTM on PA and AP
-    1. ResNetV2 with LSTM/without LSTM result ROC analysis
-    1. ResNetV2 with LSTM/without LSTM result Loss analysis
-    1. ResNetV2 with LSTM/without LSTM result Accuracy analysis
+    1. ResNet50V2 in-depth modeling experiment with LSTM/without LSTM on PA and AP
+    1. ResNet50V2 with LSTM/without LSTM result ROC analysis
+    1. ResNet50V2 with LSTM/without LSTM result Loss analysis
+    1. ResNet50V2 with LSTM/without LSTM result Accuracy analysis
 1. `Loss_Acc_Plots.ipynb`
     1. a summary version of Loss plots and Acc plots for DenseNet, MobileNetV2, ResNetV2 experiments on the architecture with/without LSTM
 
