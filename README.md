@@ -166,9 +166,7 @@ The dataset we used is found here: https://www.kaggle.com/nih-chest-xrays/data
 #### File Dependencies
 > files stored in data_csv_files directory
 1. `added_paths_AP.csv`
-    contains the corresponding full file path for each AP datapoints' X-ray image on google drive\
-    relevant scripts:\
-    1. 
+    contains the corresponding full file path for each AP datapoints' X-ray image on google drive
 1. `added_paths_PA.csv`
     contains the corresponding full file path for each PA datapoints' X-ray image on google drive
 1. `AP_test.csv`
