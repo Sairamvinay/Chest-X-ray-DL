@@ -99,6 +99,12 @@ The dataset we used is found here: https://www.kaggle.com/nih-chest-xrays/data
     1. Relevant files for this script:
         1. `PA_images.pkl`
         1. `AP_images.pkl`
+        1. `PA_train.csv`
+        1. `PA_test.csv`
+        1. `PA_val.csv`
+        1. `AP_train.csv`
+        1. `AP_test.csv`
+        1. `AP_val.csv`
 1. `DenseNetPAModellingFinal.ipynb` and `DenseNet_AP_Modeling.ipynb`
     1. DenseNet169 in-depth modeling experiment with LSTM/without LSTM on PA and AP
     1. DenseNet169 with LSTM/without LSTM result ROC analysis
