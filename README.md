@@ -191,9 +191,9 @@ The dataset we used is found here: https://www.kaggle.com/nih-chest-xrays/data
 > Files present in the Google Drive link for working on the modelling: Google Drive Link: https://drive.google.com/drive/folders/1SezfLewxe0jiSGxc2m1yLnNzMFrwHotQ?usp=sharing
 1. `single_image_files`: The files required for simulating the single image baseline for modelling for both PA and AP datasets: 
     This directory contains 2 sub-directories: 
-        1. `data`: PA based datasets presented as pickle files: `train.pkl`,`test.pkl`,`val.pkl` ; AP based datasets presented as pickle files:`train_AP.pkl`,`test_AP.pkl`,`val_AP.pkl`
-        1. `pretrained-models`: The pretrained modelled based files used from the Coursera model: `pretrained_model.h5`, `densenet.hdf5`
+    1. `data`: PA based datasets presented as pickle files: `train.pkl`,`test.pkl`,`val.pkl` ; AP based datasets presented as pickle files:`train_AP.pkl`,`test_AP.pkl`,`val_AP.pkl`
+    1. `pretrained-models`: The pretrained modelled based files used from the Coursera model: `pretrained_model.h5`, `densenet.hdf5`
 
 1. `images_3_followup`: The files required for simulating the three followup images models for both PA and AP images. The csv are in the `data_csv_files` directory but the images are saved as a dictionary of the image filename mapped to its image array notation as a 2D array of size (128,128). 
-        1. `PA_images.pkl`: PA images stored as dictionary mapping the image filename to the image array of size (128,128).
-        1. `AP_images.pkl`: AP images stored as dictionary mapping the image filename to the image array of size (128,128).
+    1. `PA_images.pkl`: PA images stored as dictionary mapping the image filename to the image array of size (128,128).
+    1. `AP_images.pkl`: AP images stored as dictionary mapping the image filename to the image array of size (128,128).
