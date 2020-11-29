@@ -1,7 +1,82 @@
 # Chest-X-ray-DL
-Our DL 289G Project
+> Our DL 289G Project
 
 
-//Write about the project overall, write what we are doing? how we are solving it?
-//For each script in the main branch: write short descriptions and explain how to run each of them!!! ; Write which files are needed to run them: write where these dependency files are located 
-//Also, write the dependencies `keras`,`pandas`,`sklearn`,`CV2`
+## project overall
+> a brief summary of what we are doing
+Deep learning in Computer Vision is important in medical area. Our project is mainly working on disease prediction for patients using X-ray images with technologies, such as CNNs and RNNs. In this project, we will present a deep learning model, which takes in a sequence of the consecutive previous chest X-rays of patients, analyze the variation and difference across this sequence. For the feature extraction phase of the images, the model uses convolutional neural networks (CNN), such as DenseNet, MobileNet, and ResNet. Besides these, we also compare and analyze specifically the impact of LSTMs on these X-ray based on the extracted feature maps from experimental CNN models. In conclusion, throughout this project, we intend to present a single deep learning framework, which would take in more than one X-ray per patient for analysis and would intend to treat these X-rays as an image sequence which would be then used for predicting the disease label based on the differences observed within the regions present across each follow-up X-ray, and our goal is to identify how does follow-up X-ray images play a significant role in predicting the disease labels. 
+
+## brief script description and usage
+
+### preprocessing scripts
+> scripts that are used for data preproccessing and data cleaning
+1. Filter_and_Create_Sample_Sets.ipynb
+    1. Pick Patients who have at least 3 followups (indexing from 0)
+    1. Create two different sample datasets based on view position and store datasets into CSVs
+1. Preprocess_Analyze_Image_Datasets.ipynb
+    1. PA, PA images dataset processing
+        1. Adding Full Paths and Some basic preprocessing
+        1. Train, Test, Validation dataset creation
+        1. Analyzing the samples for label distributions
+    1. saving preprocessed into arrays and store in pickle.
+1. Process_NIH_Dataset_Details.ipynb
+    1. process NIH dataset details
+    1. data analysis using data visualization 
+1. Sample_Set_Images.ipynb
+    1. PA, AP Position manual Feature Extraction
+1. verify_files.py
+    1. check if files are correctly merged
+
+### single_image_models scripts
+> scripts that used for single image input models 
+1. AP_X_ray_images_baseline_dataprocessing_v2.ipynb PA_X_ray_images_baseline_dataprocessing_v2.ipynb
+    1. For single image preprocessing, we added df_ap or df_pa, and then we linked images from google drive and then save them to added_paths_ap and added_paths_pa. We have split that datasets into three one with train, val, and test
+We have then resized the images and saved as pickle files
+1. Single_Xray_AP_results.ipynb and Single_Xray_PA_results.ipynb
+    1. storing and analyzing results for single AP and PA X-ray images
+1. APmodelling.py and PAmodelling.py
+    1. To compare DenseNet, ResNet, and MobileNet, we have tested our datasets on a simple CNN model which contained 5 layers, 1000 units, and kernel size of 7. The dropout rate was 40% and used softmax activation function. We have used Adam optimizer. Our CNN model will have 15 outputs. Loss function we used was categorical cross entropy, and we used accuracy metrics. After processing on the CNN, we saved our results on pickle files
+
+### three_image_models scripts
+> scripts that used for three images input models
+1. BaseModelScript.ipynb
+    1. Load images and get the outputs: X,y creation
+    1. For both PA and AP
+        1. Train, test, validate X,Y sets
+        1. DenseNet modeling experiment with LSTM/without LSTM
+1. DenseNetPAModellingFinal.ipynb and DenseNet_AP_Modeling.ipynb
+    1. DenseNet in-depth modeling experiment with LSTM/without LSTM on PA and AP
+    1. DenseNet with LSTM/without LSTM result ROC analysis
+    1. DenseNet with LSTM/without LSTM result Loss analysis
+    1. DenseNet with LSTM/without LSTM result Accuracy analysis
+1. Modeling_MobileNetV2_AP_.ipynb and Modeling_MobileNetV2_PA_.ipynb
+    1. MobileNetV2 in-depth modeling experiment with LSTM/without LSTM on PA and AP
+    1. MobileNetV2 with LSTM/without LSTM result ROC analysis
+    1. MobileNetV2 with LSTM/without LSTM result Loss analysis
+    1. MobileNetV2 with LSTM/without LSTM result Accuracy analysis
+1. Modeling_ResNetV2_AP_.ipynb and Modeling_ResNetV2_PA_.ipynb
+    1. ResNetV2 in-depth modeling experiment with LSTM/without LSTM on PA and AP
+    1. ResNetV2 with LSTM/without LSTM result ROC analysis
+    1. ResNetV2 with LSTM/without LSTM result Loss analysis
+    1. ResNetV2 with LSTM/without LSTM result Accuracy analysis
+1. Loss_Acc_Plots.ipynb
+    1. a summary version of Loss plots and Acc plots for DenseNet, MobileNetV2, ResNetV2 experiments on the architecture with/without LSTM
+
+#### Applied Dependencies
+1. Pandas
+1. Numpy
+1. Keras
+1. Tensorflow
+1. OS
+1. CSV
+1. Pickle
+1. tqdm
+1. Sklearn
+1. Collections
+1. PIL
+1. Matplotlib
+1. Seaborn
+1. glob
+1. CV2
+1. Time
+
