@@ -2,13 +2,14 @@
 > Our DL 289G Project
 
 
-## project overall
-a brief summary of what we are doing
+## Project Overall
 Deep learning in Computer Vision is important in medical area. Our project is mainly working on disease prediction for patients using X-ray images with technologies, such as CNNs and RNNs. In this project, we will present a deep learning model, which takes in a sequence of the consecutive previous chest X-rays of patients, analyze the variation and difference across this sequence. For the feature extraction phase of the images, the model uses convolutional neural networks (CNN), such as DenseNet, MobileNet, and ResNet. Besides these, we also compare and analyze specifically the impact of LSTMs on these X-ray based on the extracted feature maps from experimental CNN models. In conclusion, throughout this project, we intend to present a single deep learning framework, which would take in more than one X-ray per patient for analysis and would intend to treat these X-rays as an image sequence which would be then used for predicting the disease label based on the differences observed within the regions present across each follow-up X-ray, and our goal is to identify how does follow-up X-ray images play a significant role in predicting the disease labels. 
 
-## brief script description and usage
+The dataset we used is found here: https://www.kaggle.com/nih-chest-xrays/data
 
-### preprocessing scripts
+## Brief Script Description and Usage
+
+### Preprocessing Scripts
 > scripts that are used for data preproccessing and data cleaning
 1. `Filter_and_Create_Sample_Sets.ipynb`
     1. Pick Patients who have at least 3 followups (indexing from 0)
