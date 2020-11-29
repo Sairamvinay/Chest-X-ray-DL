@@ -30,7 +30,7 @@ Deep learning in Computer Vision is important in medical area. Our project is ma
 ### single_image_models scripts
 > scripts that used for single image input models 
 1. `AP_X_ray_images_baseline_dataprocessing_v2.ipynb` and `PA_X_ray_images_baseline_dataprocessing_v2.ipynb`
-    1. For single image preprocessing, we added dataframes for AP or PA, and then we linked images from google drive and then save them to `added_paths_ap.csv` and `added_paths_pa.csv`. We have split that datasets into three one with train, val, and test
+    1. For single image preprocessing, we added dataframes for AP or PA (from `df_pa.csv` and `df_ap.csv`), and then we linked images from google drive and then save them to `added_paths_ap.csv` and `added_paths_pa.csv`. We have split that datasets into three one with train, val, and test
 We have then resized the images and saved as pickle files
 1. `Single_Xray_AP_results.ipynb` and `Single_Xray_PA_results.ipynb`
     1. storing and analyzing results for single AP and PA X-ray images
@@ -80,4 +80,23 @@ We have then resized the images and saved as pickle files
 1. CV2
 1. Time
 1. Google.colab
+
+#### File Dependencies
+> files stored in data_csv_files directory
+1. `added_paths_AP.csv`
+    contains the corresponding full file path for each AP datapoints' X-ray image on google drive
+1. `added_paths_PA.csv`
+    contains the corresponding full file path for each PA datapoints' X-ray image on google drive
+1. `AP_test.csv`
+    contains the test set for AP
+1. `PA_test.csv`
+    contains the test set for PA
+1. `AP_val.csv`
+    contains the validation set for AP
+1. `PA_val.csv`
+    contains the validation set for PA
+1. `AP_train.csv`
+    contains the training set for AP
+1. `PA_train.csv`
+    contains the training set for PA
 
