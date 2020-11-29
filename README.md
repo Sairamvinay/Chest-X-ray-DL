@@ -44,7 +44,7 @@ We have then resized the images and saved as pickle files
     1. For both PA and AP
         1. Train, test, validate X,Y sets
         1. DenseNet modeling experiment with LSTM/without LSTM
-1. DenseNetPAModellingFinal.ipynb and DenseNet_AP_Modeling.ipynb
+1. `DenseNetPAModellingFinal.ipynb` and `DenseNet_AP_Modeling.ipynb`
     1. DenseNet in-depth modeling experiment with LSTM/without LSTM on PA and AP
     1. DenseNet with LSTM/without LSTM result ROC analysis
     1. DenseNet with LSTM/without LSTM result Loss analysis
